@@ -13,7 +13,7 @@
 	<preference name="DEEPLINK_HOST" default="" />
 
 	<!-- android -->
-	<platform name="android">
+	<!-- <platform name="android">
 		<preference name="ANDROID_PATH_PREFIX" default="/" />
 
 		<js-module src="www/deeplink.js" name="deeplink">
@@ -42,7 +42,7 @@
 		</config-file>
 
 		<source-file src="src/android/io/ionic/links/IonicDeeplink.java" target-dir="src/io/ionic/deeplink" />
-	</platform>
+	</platform> -->
 
 	<!-- ios -->
 	<platform name="ios">
